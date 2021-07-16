@@ -1,7 +1,7 @@
-1*
-2*
-3*
-4*
-5*
-6*
-7*
+1*02club*
+2*04diamond*02spade*
+3*08heart*12diamond*
+4*05spade*05diamond*09diamond*11diamond*10club*
+5*03diamond*11heart*07club*09spade*04spade*
+6*06club*03club*07heart*05club*01spade*06spade*
+7*12spade*02heart*03spade*06diamond*13spade*01heart*11club*

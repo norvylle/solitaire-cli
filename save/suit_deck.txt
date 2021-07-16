@@ -1,4 +1,4 @@
-Spades*00*01spade*02spade*03spade*04spade*05spade*06spade*07spade*08spade*09spade*10spade*11spade*12spade*13spade*
-Hearts*00*01heart*02heart*03heart*04heart*05heart*06heart*07heart*08heart*09heart*10heart*11heart*12heart*13heart*
-Clubs*00*01club*02club*03club*04club*05club*06club*07club*08club*09club*10club*11club*12club*13club*
-Diamonds*00*01diamond*02diamond*03diamond*04diamond*05diamond*06diamond*07diamond*08diamond*09diamond*10diamond*11diamond*12diamond*13diamond*
+Diamonds*00*
+Hearts*00*
+Clubs*00*
+Spades*00*
